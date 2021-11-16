@@ -1,0 +1,3 @@
+http GET http://127.0.0.1:8000/api/items/1 "Authorization: Token 165f4be61f26d9a0c9746194ec0c84f9cf9e6dcf"
+
+curl -X GET http://127.0.0.1:8000/api/items/ -H "Authorization: Token 165f4be61f26d9a0c9746194ec0c84f9cf9e6dcf"
