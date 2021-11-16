@@ -1,1 +1,2 @@
 "# Junction" 
+Django-React Project
